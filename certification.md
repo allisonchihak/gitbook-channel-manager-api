@@ -57,6 +57,6 @@
 * If there are some \(critical\) issues found during certification, Mews will not allow the Channel Manager to advance to production environment.
   * Once issues are resolved, certification will start over.
 * If there are no critical issues discovered during certification, the Channel Manager will be advanced to the production environment
-  * Mews will require to receive prduction endpoint URLs for [Channel Manager API](certification.md#channel-manager-api)
+  * Mews will require to receive production endpoint URLs for [Channel Manager API](certification.md#channel-manager-api)
   * Mews will issue a live production token for the Channel manager
 
